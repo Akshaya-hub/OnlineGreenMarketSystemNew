@@ -4,6 +4,7 @@ import search from './search.png'
 import jaggery from './jaggery.png'
 import cashewnuts from './cashewnuts.png'
 import dryfish from './dryfish.jpg'
+import Arrow from './Arrow.png'
 
 // export const assests = {
 //     logo,
